@@ -1,2 +1,2 @@
 # demo
-demo of my git
+demo of my git new project
